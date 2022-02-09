@@ -1,0 +1,25 @@
+Futhark truetype font v1.0
+--------------------------
+
+Accompanying this text-file should be v1.0 of the Futhark TTF created by
+Morten Bek in 1995.
+
+This version of the futhark is the swedish/norwegian form which was used in 
+approx. 700 AC. 
+I'm currently working on other forms of the futhark, trying to make a col-
+lection of the different styles.
+
+If you have any comments, corrections, suggestions or questions, e-mail me at:
+bek@post3.tele.dk
+
+To install in a windows environment, copy the file futhark.ttf to
+\windows\system or \windows\fonts, depending on the Windows version you're
+running. Choose Install New Font under the Font options in your Control Panel
+(or confront your windows-manual if this is totally incromprehendible).
+
+Please keep this file with the font, whenever you copy it and spread it to
+your friends.
+
+More fonts are under way....
+				Morten
+
