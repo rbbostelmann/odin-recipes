@@ -2,10 +2,12 @@
 body {
     background-color: rgba(221, 180, 76, 0.753);
     font-family: 'Oldenburg', cursive;
+    padding: 2em;
 }
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 .page-title {
@@ -18,6 +20,15 @@ a {
 
 .food {
     margin-top: .6em;
+    margin-left: 50%;
+    margin-right: 50%;
+    transform: translateX(-5%);
+    width: 250%;
+    height: auto;
+}
+
+.food.skip {
+    width: 150%;
 }
 
 
